@@ -1,0 +1,1 @@
+### Monorepo of simple games written in vanilla JS
