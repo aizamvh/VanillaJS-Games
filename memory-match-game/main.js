@@ -191,5 +191,4 @@ class Game {
 }
 
 const newGame = new Game(16)
-newGame._end()
 newGame.start()
